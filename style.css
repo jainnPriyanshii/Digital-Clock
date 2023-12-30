@@ -1,0 +1,17 @@
+#clock {
+	font-size: 175px;
+	width: 900px;
+	margin: 120px;
+	text-align: center;
+	border: 5px solid black;
+	border-radius: 20px;
+    color:#af3800;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background:#a3d2d0;
+    height: 90px;
+    
+}
